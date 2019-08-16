@@ -1,2 +1,2 @@
-#International
-List of international informations
+# International
+List of international information
